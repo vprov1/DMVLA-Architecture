@@ -68,9 +68,6 @@ Implementing a polymorphic multi-valued processor introduces complex hardware an
 
 ---
 
-## 5. Intellectual Property & Prior Art Declaration
-This public document serves as an official, legally binding declaration of **Prior Art**. Any future commercial production, semiconductor prototyping, foundry fabrication, or patent application involving the dynamic switching between Binary and Multi-Valued Logic managed by an embedded microcode/BIOS subsystem for workload-specific optimization must credit the original innovator **[Mahdi Hussein Ali]** under the legal provisions of international patent treaties and open-source licensing.
-
 The physical implementation of DMVLA relies on embedding **Polymorphic Silicon Fabrics (Reconfigurable Logic Blocks)** directly alongside standard, high-speed execution units.
 By the way, all ideas and projects start with many drawbacks, but I hope this post is a step towards the future, and certainly with more feedback, all ideas will improve. Thank you for reading about my project 😅.
 
